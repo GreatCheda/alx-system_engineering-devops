@@ -1,1 +1,3 @@
-display a file
+#!/bin/bash
+cat /etc/passwd
+
